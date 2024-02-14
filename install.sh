@@ -2,7 +2,7 @@
 
 set -e
 
-URL_PREFIX="https://github.com/ssofy/cli/releases/download/v1.0.0/bin"
+URL_PREFIX="https://raw.githubusercontent.com/ssofy/cli/master/bin"
 INSTALL_DIR="/usr/local/bin"
 
 case "$(uname -sm)" in
