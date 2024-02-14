@@ -2,8 +2,8 @@
 
 set -e
 
-URL_PREFIX="https://raw.githubusercontent.com/ssofy/cli/master/bin"
-INSTALL_DIR="/usr/local/bin"
+URL_PREFIX="https://github.com/ssofy/cli/releases/download/v1.0.0/bin"
+INSTALL_DIR="$HOME/bin"
 
 case "$(uname -sm)" in
   "Darwin x86_64") FILENAME="ssofy-darwin-amd64" ;;
@@ -17,7 +17,7 @@ esac
 
 echo "Downloading $FILENAME from github releases"
 if ! curl -sSLf "$URL_PREFIX/$FILENAME" -o "$INSTALL_DIR/ssofy"; then
-  echo "Failed to write to $INSTALL_DIR; try with sudo" >&2
+  echo "Failed to write to $INSTALL_DIR" >&2
   exit 1
 fi
 
@@ -26,4 +26,4 @@ if ! chmod +x "$INSTALL_DIR/ssofy"; then
   exit 1
 fi
 
-echo "SSOfy dev cli is successfully installed"
+echo "SSOfy dev cli is successfully installed. Make sure '$INSTALL_DIR' is in your PATH."
