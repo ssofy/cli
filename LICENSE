@@ -1,21 +1,26 @@
-The MIT License (MIT)
+SSOfy Dev CLI Binary Distribution License
 
-Copyright (c) 2024 Cubelet Ltd [https://cubelet.co.uk]
+This Binary Distribution License ("License") governs the use and distribution of the binary files of SSOfy Dev CLI ("Software").
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. License Grant: 
+   Subject to the terms and conditions of this License, Cubelet Ltd ("Licensor") grants you ("Licensee") a non-exclusive, non-transferable license to use and distribute the binary files of the Software.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+2. Restrictions:
+   a. Licensee may not modify, reverse-engineer, decompile, or disassemble the Software.
+   b. Licensee may not distribute the source code of the Software.
+   c. Licensee may not sublicense, sell, or redistribute the Software without prior written consent from Licensor.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+3. Intellectual Property:
+   Licensor retains all intellectual property rights in and to the Software. This License does not grant Licensee any rights to the source code of the Software.
+
+4. Warranty Disclaimer:
+   THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. LICENSOR DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5. Limitation of Liability:
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+By using or distributing the binary files of the Software, Licensee agrees to be bound by the terms and conditions of this License.
+
+Cubelet Ltd.
+London, United Kingdom
+info@cubelet.co.uk
